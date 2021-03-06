@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^data-row$
+^ins/extdata$
+^data-raw$
